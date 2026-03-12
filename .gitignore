@@ -1,0 +1,11 @@
+*.fastq
+*.fasta
+*.gz
+*.zip
+*.tar
+*.log
+*.tmp
+*.pdf
+
+DataNeeded/*
+!DataNeeded/README.md
